@@ -6,7 +6,7 @@ The project is a system of a shopping center. The system has different kinds of 
 
 The system has a list of available products and their contents, a list of current clients and a list of people working in the store(collecting orders).
 
-##The store system allows:##
+The store system allows:
 
 *Adding new products
 *Adding a new client
